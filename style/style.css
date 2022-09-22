@@ -448,5 +448,13 @@ line-height: 1.2;
     .main__top-item{
         flex-direction: column;
     }
-    
+ .main__bottom-text{
+    width: 100%;
+ }   
+ .main__bottom-box{
+    width: 100%;
+ }
+ .background{
+width: 100%;    
+ }
 }
